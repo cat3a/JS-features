@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css?family=Khula&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    margin: 20px 80px;
+}
+
+.main__title {
+    color: #5305af;
+    font-size: 35px;
+}
+
+.main__ol {
+    font-size: 30px;
+    line-height: 2;
+}
+
+.main__link {
+    font-size: 25px;
+    color: #29323c;
+    text-decoration: none;
+}
+
+.main__link:hover {
+    opacity: 0.5;
+}
+
+.main__link:visited,  .main__link:active{
+    color: #5305af;
+    opacity: 1;
+}
+
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */

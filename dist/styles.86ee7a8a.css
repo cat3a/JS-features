@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body{background-color:#111;height:100vh;overflow:hidden;margin:0}.container,body{display:flex;align-items:center;justify-content:center}.container{flex-wrap:wrap;max-width:500px}.square{width:14px;height:14px;background-color:#222;margin:2px;box-shadow:0 0 2px #000;transition:4s ease}.square:hover{transition-duration:0s}
+/*# sourceMappingURL=/styles.86ee7a8a.css.map */
